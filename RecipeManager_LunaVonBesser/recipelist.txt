@@ -1,0 +1,48 @@
+Recipe Banh mi tay
+sugar 15.0
+eggs 0.0
+flour 500.0
+yeast 1.5
+butter 0.0
+
+Recipe Brioche
+butter 250.0
+flour 250.0
+yeast 3.0
+sugar 16.0
+eggs 4.0
+
+Recipe Challah
+eggs 3.0
+flour 300.0
+yeast 2.5
+sugar 17.0
+butter 100.0
+
+Recipe Generic White
+flour 600.0
+sugar 22.0
+eggs 0.0
+butter 0.0
+yeast 1.0
+
+Recipe Gyeren-ppang
+flour 400.0
+yeast 2.0
+sugar 12.0
+eggs 6.0
+butter 0.0
+
+Recipe Naan
+flour 350.0
+yeast 4.0
+sugar 15.0
+eggs 0.0
+butter 0.0
+
+Recipe Pita
+flour 250.0
+yeast 0.5
+sugar 10.0
+eggs 0.0
+butter 0.0
